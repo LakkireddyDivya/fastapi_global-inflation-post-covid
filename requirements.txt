@@ -4,3 +4,4 @@ pandas
 numpy
 joblib
 python_multipart
+sklearn
